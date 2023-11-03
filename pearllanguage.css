@@ -1,0 +1,15 @@
+.pearl {
+				font-variant: small-caps;
+}
+
+a.pearl {
+				//color: #008000;
+				color: #000000;
+				//font-weight: bold;
+				text-decoration: none;
+}
+
+a.pearl:hover {
+				color: #008000;
+				text-decoration: underline;
+}
